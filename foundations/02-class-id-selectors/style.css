@@ -11,3 +11,10 @@
 .odd-ones.third-element {
     font-size: 24px;
 }
+
+#fourth-element {
+    background-color: #77fb66;
+    font-size: 24px;
+    font-weight: bold;
+}
+
