@@ -3,3 +3,7 @@
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
+#second-element {
+    text: #7766fb;
+    font-size: 36px;
+}
